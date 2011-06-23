@@ -7,6 +7,6 @@
  * @license http://opensource.org/licenses/MIT MIT License
  * @copyright Copyright (c) 2011, qbbr
  */
-class Q_Mail_Transport_Smtp
+class Q_Mail_Transport_Smtp extends Q_Mail_Transport_Abstract
 {
 }
